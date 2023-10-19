@@ -1,0 +1,37 @@
+body{
+    background: url('/images/wp4608679-steven-universe-the-movie-wallpapers.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.central{
+    width: 400px;
+    background: linear-gradient(rgb(196, 90, 196),rgb(117, 200, 255));
+    padding: 30px;
+    border-radius: 10px;
+
+}
+.central #filme{
+
+    width: 400px;
+    border-radius: 5px;
+    
+}
+
+.central button{
+
+    width: 80px;
+    background: rgb(255, 171, 237);
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin: 10px 5px;
+    padding: 8px;
+    cursor: pointer;
+
+}
